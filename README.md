@@ -1,4 +1,4 @@
-# archivagrant
+# ArchivesSpace Vagrant
 BHL ArchivesSpace Vagrant Setup
 
 1. Install VirtualBox
